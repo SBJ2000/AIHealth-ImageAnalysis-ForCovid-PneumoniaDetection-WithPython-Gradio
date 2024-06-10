@@ -84,6 +84,8 @@ Then navigate to the project directory:
 
 After installing the project, you can now run and use the application through the graphical interface provided by Gradio. Simply launch the interface and upload a chest X-ray image to get the classification result.
 
+![Example of usage](https://github.com/SBJ2000/AIHealth-ImageAnalysis-ForCovid-PneumoniaDetection-WithPython-Gradio/blob/main/Images/Example of usage.jpg)
+
 ## Conclusion :
 
 AIHealth is a deep learning-based application for the classification of chest X-ray images into COVID-19, pneumonia, and normal categories. It consists of a CNN model built with TensorFlow and a user-friendly frontend interface created with Gradio. The project demonstrates the application of artificial intelligence in the healthcare domain, providing a valuable tool for disease detection.
