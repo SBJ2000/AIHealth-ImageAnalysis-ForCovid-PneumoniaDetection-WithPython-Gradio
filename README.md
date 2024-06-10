@@ -34,6 +34,7 @@ Together, these components provide a seamless and interactive user experience, e
 
 ## Installation & Usage :
 ###Prerequisites :
+
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4.1-orange)](https://www.tensorflow.org/)
     
     TensorFlow: Required for building and training the CNN model.
