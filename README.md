@@ -33,7 +33,7 @@ The frontend architecture of this application is built using Gradio, a Python li
 Together, these components provide a seamless and interactive user experience, enabling users to easily classify chest X-ray images into COVID-19, NORMAL, and PNEUMONIA categories using the trained CNN model.
 
 ## Installation & Usage :
-###Prerequisites :
+### Prerequisites :
 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.4.1-orange)](https://www.tensorflow.org/)
     
@@ -55,7 +55,7 @@ Together, these components provide a seamless and interactive user experience, e
     
     Git: Used to clone the project repository and manage the code.
 
-###Installation :
+### Installation :
 
 To install and set up the AIHealth project, follow these steps:
 
@@ -80,7 +80,7 @@ Then navigate to the project directory:
 
     python Front End.py
 
-###Usage :
+### Usage :
 
 After installing the project, you can now run and use the application through the graphical interface provided by Gradio. Simply launch the interface and upload a chest X-ray image to get the classification result.
 
